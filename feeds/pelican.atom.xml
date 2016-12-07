@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>うみのものとも</title><link href="deveT50.github.io/" rel="alternate"></link><link href="deveT50.github.io/feeds/pelican.atom.xml" rel="self"></link><id>deveT50.github.io/</id><updated>2015-11-23T13:00:00+09:00</updated><entry><title>Pelican + codeanywhere + Github Pagesでブラウザのみでブログ構築</title><link href="deveT50.github.io/site_building.html" rel="alternate"></link><published>2015-11-23T13:00:00+09:00</published><updated>2015-11-23T13:00:00+09:00</updated><author><name>shufo</name></author><id>tag:,2015-11-23:deveT50.github.io/site_building.html</id><summary type="html">&lt;h2&gt;Pelican とは&lt;/h2&gt;
+&lt;p&gt;以下本文
+テストです。&lt;/p&gt;</summary><category term="pelican"></category></entry></feed>
